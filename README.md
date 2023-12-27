@@ -25,4 +25,6 @@ Reach me through fathanzahirx@gmail.com 💬
 
 I'm currently interested in the field of machine learning🤖 and game development🎮
 
+I'm currently learning flutter for mobile development on android studio
+
 
