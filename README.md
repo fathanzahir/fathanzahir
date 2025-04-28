@@ -19,8 +19,6 @@ Hi there, My name is Fathan 😄
 
 I'm currently majoring in electrical engineering at Universitas Gadjah Mada⚡
 
-My pronouns is he/him👨
-
 Reach me through fathanzahirx@gmail.com 💬
 
 I'm currently interested in the field of machine learning🤖 and game development🎮
